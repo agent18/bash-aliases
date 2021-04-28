@@ -1,7 +1,7 @@
 # bash-aliases
 my bash aliases
 
-Add this at the end of your `.bashrc` file
+Add this at the end of your `.bashrc` file. Open terminal and type `source .bashrc`.
 
 ```
 # Alias definitions.
